@@ -161,6 +161,10 @@
 		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "NeuronLiveLink",
+			"Enabled": true
 		}
 	]
 }
